@@ -1,6 +1,9 @@
 ## Hi there 👋
 
+We are Polimaster.   
+Main line of business is designing and manufacturing professional equipment for radiation detection, monitoring and control.
 
+You can learn more at https://polimaster.com
 
 <!--
 
